@@ -1,6 +1,6 @@
 # SNHU-CS-305
 
-**Who was the client? What issue did they want addressed?**
+**Who was the client? What issue did they want addressed?**<br />
 The client, Artemis Financial, is a financial consulting company that wanted to create an app for their clients. As a fianancial institutuion they were required by the PCI_DSS and the Graham-Leach-Bliley act to have all client data to be protected. Therefore the application that they were developing needed data encryption, secure communication and a secure application in order to provide services to their clients.
 
 **What did you do particularly well in identifying their software securiuty vulnerabilities? Why is it important to code securely? What value does software security add to a company's overall wellbeing?**
